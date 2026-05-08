@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CyberMind</string>
+    <string name="welcome_message">Test your cyber security knowledge!</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="next">Next</string>
+    <string name="review_answers">Review Answers</string>
+    <string name="answers_appear_here">Answers appear here</string>
+</resources>
